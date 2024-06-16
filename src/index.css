@@ -1,3 +1,136 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .background {
+    background: radial-gradient(
+        ellipse farthest-corner at right bottom,
+        #4b1329 8%,
+        /* dark purple */ #631a3c 30%,
+        /* medium dark purple */ #7a1e4a 40%,
+        /* medium purple */ transparent 80%
+      ),
+      radial-gradient(
+        ellipse farthest-corner at left top,
+        #4b1329 8%,
+        /* dark purple */ #631a3c 30%,
+        /* medium dark purple */ #b54d83 62.5%,
+        /* light purple */ #631a3c 100% /* medium dark purple */
+      );
+
+    color: white;
+
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.685);
+
+    text-shadow: 0 8px 16px rgba(10, 10, 10, 0.991);
+  }
+  .background3 {
+    background: radial-gradient(
+        ellipse farthest-corner at right bottom,
+        #4b1329 8%,
+        /* darker purple */ #4a102c 30%,
+        /* medium darker purple */ #601637 40%,
+        /* medium purple */ transparent 80%
+      ),
+      radial-gradient(
+        ellipse farthest-corner at left top,
+        #4b1329 8%,
+        /* darker purple */ #4a102c 30%,
+        /* medium darker purple */ #93366c 62.5%,
+        /* medium darker purple */ #4a102c 100%
+      );
+
+    color: white;
+
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.685);
+
+    text-shadow: 0 8px 16px rgba(10, 10, 10, 0.548);
+  }
+  .background4 {
+    background: radial-gradient(
+        ellipse farthest-corner at right bottom,
+        #4b2d13 8%,
+        /* dark orange-brown */ #633c1a 30%,
+        /* medium dark orange-brown */ #7a4a1e 40%,
+        /* medium orange */ transparent 80%
+      ),
+      radial-gradient(
+        ellipse farthest-corner at left top,
+        #4b2d13 8%,
+        /* dark orange-brown */ #633c1a 30%,
+        /* medium dark orange-brown */ #b5894d 62.5%,
+        /* light orange */ #633c1a 100% /* medium dark orange-brown */
+      );
+
+    color: white;
+
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.685);
+
+    text-shadow: 0 2px 4px rgba(10, 10, 10, 0.476);
+  }
+  .background2 {
+    background: radial-gradient(
+        ellipse farthest-corner at right bottom,
+        #35004d 8%,
+        /* dark purple */ #590075 30%,
+        /* medium purple */ #75009b 40%,
+        /* lighter purple */ transparent 80%
+      ),
+      radial-gradient(
+        ellipse farthest-corner at left top,
+        #35004d 8%,
+        /* dark purple */ #590075 30%,
+        /* medium purple */ #a54db5 62.5%,
+        /* lighter purple */ #590075 100% /* medium purple */
+      );
+  }
+  .btn-bg {
+    background: radial-gradient(
+        ellipse farthest-corner at right bottom,
+        #7a3452 8%,
+        #88465d 30%,
+        #9a5773 40%,
+        transparent 80%
+      ),
+      radial-gradient(
+        ellipse farthest-corner at left top,
+        #7a3452 8%,
+        #88465d 30%,
+        #d0809b 62.5%,
+        #88465d 100%
+      );
+
+    color: white;
+
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.685);
+
+    text-shadow: 0 8px 16px rgba(10, 10, 10, 0.991);
+  }
+  .box-shadow {
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.685);
+  }
+  .text-shadow {
+    text-shadow: 0 8px 16px rgba(10, 10, 10, 0.991);
+  }
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #a0d1eb;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #5184b9;
+
+  border-radius: 8px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #0795b5;
+}
