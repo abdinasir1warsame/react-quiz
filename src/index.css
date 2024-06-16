@@ -86,20 +86,13 @@
       );
   }
   .btn-bg {
-    background: radial-gradient(
-        ellipse farthest-corner at right bottom,
-        #7a3452 8%,
-        #88465d 30%,
-        #9a5773 40%,
-        transparent 80%
-      ),
-      radial-gradient(
-        ellipse farthest-corner at left top,
-        #7a3452 8%,
-        #88465d 30%,
-        #d0809b 62.5%,
-        #88465d 100%
-      );
+    background: linear-gradient(
+      to bottom right,
+      rgb(236, 176, 87) 5%,
+      /* Light orange */ #9d6929 25%,
+      /* Medium orange */ #8f5122 62.5%,
+      /* Darker medium orange */ #8b4a22 100% /* Dark orange */
+    );
 
     color: white;
 
@@ -126,13 +119,13 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #93366c;
+  background: #654222;
 
   border-radius: 8px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #4a102c;
+  background: #b5894d;
 }
 html {
   overflow-x: hidden;

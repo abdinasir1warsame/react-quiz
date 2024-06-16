@@ -1,15 +1,23 @@
 import React from 'react';
 import './App.css';
-import Quiz from './components/quiz';
-import Navbar from './components/nav';
-// import Banner from './components/banner';
+import { Routes, Route } from 'react-router-dom';
+import Layout from './layout';
+import IndexPage from './components/pages/indexPage';
+import QuizPage from './components/pages/quizPage';
+import LoginPage from './components/pages/loginpage';
+import RegisterPage from './components/pages/registerPage';
 
 function App() {
   return (
-    <div className=" h-full w-screen background3 ">
-      <Navbar />
-      {/* <Banner /> */}
-      <Quiz />
+    <div className=" h-full w-screen background4 ">
+      <Routes>
+        <Route path="/" element={<Layout />}>
+          <Route index element={<IndexPage />} />
+          <Route path="/quiz" element={<QuizPage />}></Route>
+          <Route path="/login" element={<LoginPage />}></Route>
+          <Route path="/register" element={<RegisterPage />}></Route>
+        </Route>
+      </Routes>
     </div>
   );
 }

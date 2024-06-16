@@ -1,8 +1,8 @@
 const Banner = () => {
   return (
     <>
-      <div className=" grid grid-cols-1 md:grid-cols-2 h-screen items-center text-white">
-        <div className=" space-y-8   w-[90%] h-2/3 items-center px-8 ml-5">
+      <div className=" grid grid-cols-1 md:grid-cols-2 h-screen items-center text-white py-20">
+        <div className=" space-y-12   w-[90%] h-2/3 items-center px-8 ml-5">
           <div className="text-7xl items-center ">
             Unleash Your Inner Wizard of Wisdom{' '}
           </div>
@@ -23,7 +23,7 @@ const Banner = () => {
             </h2>
           </div>
           <div className=" flex flex-wrap gap-5 justify-center items-center py-12 px-2 lg:px-7 ">
-            <div className="space-y-3 backdrop-blur-xs bg-white/30 box-shadow p-3 rounded-2xl text-2xl text-center w-1/6">
+            <div className="space-y-3 btn-bg box-shadow p-3 rounded-2xl text-2xl text-center w-1/6">
               <div className="flex justify-center ">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -42,7 +42,7 @@ const Banner = () => {
               </div>
               <p className="">Art</p>
             </div>
-            <div className="space-y-3 backdrop-blur-sm bg-white/30 box-shadow p-3 rounded-2xl text-2xl text-center w-1/6">
+            <div className="space-y-3 btn-bg box-shadow p-3 rounded-2xl text-2xl text-center w-1/6">
               <div className="flex justify-center ">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -61,7 +61,7 @@ const Banner = () => {
               </div>
               <p className="">Art</p>
             </div>
-            <div className="space-y-3 backdrop-blur-sm bg-white/30 box-shadow p-3 rounded-2xl text-2xl text-center w-1/6">
+            <div className="space-y-3 btn-bg box-shadow p-3 rounded-2xl text-2xl text-center w-1/6">
               <div className="flex justify-center ">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -80,7 +80,7 @@ const Banner = () => {
               </div>
               <p className="">Art</p>
             </div>
-            <div className="space-y-3 backdrop-blur-sm bg-white/30 box-shadow p-3 rounded-2xl text-2xl text-center w-1/6">
+            <div className="space-y-3 btn-bg box-shadow p-3 rounded-2xl text-2xl text-center w-1/6">
               <div className="flex justify-center ">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -99,7 +99,7 @@ const Banner = () => {
               </div>
               <p className="">Art</p>
             </div>
-            <div className="space-y-3 backdrop-blur-sm bg-white/30 box-shadow p-3 rounded-2xl text-2xl text-center w-1/6">
+            <div className="space-y-3 btn-bg box-shadow p-3 rounded-2xl text-2xl text-center w-1/6">
               <div className="flex justify-center ">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -118,7 +118,7 @@ const Banner = () => {
               </div>
               <p className="">Art</p>
             </div>
-            <div className="space-y-3 backdrop-blur-sm bg-white/30 box-shadow p-3 rounded-2xl text-2xl text-center w-1/6">
+            <div className="space-y-3 btn-bg box-shadow p-3 rounded-2xl text-2xl text-center w-1/6">
               <div className="flex justify-center ">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -137,7 +137,7 @@ const Banner = () => {
               </div>
               <p className="">Art</p>
             </div>
-            <div className="space-y-3 backdrop-blur-sm bg-white/30 box-shadow p-3 rounded-2xl text-2xl text-center w-1/6">
+            <div className="space-y-3 btn-bg box-shadow p-3 rounded-2xl text-2xl text-center w-1/6">
               <div className="flex justify-center ">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -156,7 +156,7 @@ const Banner = () => {
               </div>
               <p className="">Art</p>
             </div>
-            <div className="space-y-3 backdrop-blur-sm bg-white/30 box-shadow p-3 rounded-2xl text-2xl text-center w-1/6">
+            <div className="space-y-3 btn-bg box-shadow p-3 rounded-2xl text-2xl text-center w-1/6">
               <div className="flex justify-center ">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -175,7 +175,7 @@ const Banner = () => {
               </div>
               <p className="">Art</p>
             </div>
-            <div className="space-y-3 backdrop-blur-sm bg-white/30 box-shadow p-3 rounded-2xl text-2xl text-center w-1/6">
+            <div className="space-y-3 btn-bg box-shadow p-3 rounded-2xl text-2xl text-center w-1/6">
               <div className="flex justify-center ">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
