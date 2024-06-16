@@ -6,6 +6,7 @@ import IndexPage from './components/pages/indexPage';
 import QuizPage from './components/pages/quizPage';
 import LoginPage from './components/pages/loginpage';
 import RegisterPage from './components/pages/registerPage';
+import TopScoresPage from './components/pages/topScoresPage';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           <Route path="/quiz" element={<QuizPage />}></Route>
           <Route path="/login" element={<LoginPage />}></Route>
           <Route path="/register" element={<RegisterPage />}></Route>
+          <Route path="/scores" element={<TopScoresPage />}></Route>
         </Route>
       </Routes>
     </div>

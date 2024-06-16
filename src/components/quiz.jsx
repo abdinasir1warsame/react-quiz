@@ -5,8 +5,7 @@ const Quiz = () => {
         <div className="flex flex-col justify-between  rounded-2xl box-shadow backdrop-blur-2xl bg-black/30 w-[60%] h-2/3 px-7 py-8 pb-8">
           <div className="flex justify-between ">
             <div className="rounded-full background4 flex justify-center items-center  px-4">
-              {' '}
-              <p className="text-3xl font-bold text-shadow">1</p>
+              <p className="text-2xl  text-shadow">1</p>
             </div>
             <div className="text-center  text-4xl ">
               <h1 className="">And go!</h1>
@@ -14,10 +13,10 @@ const Quiz = () => {
             <div className="flex justify-center items-center">
               <p className="text-center text-xl font-bold tracking-wide">
                 Score: 1/5
-              </p>{' '}
+              </p>
             </div>
           </div>
-          <div className="flex flex-col gap-[80px] h-1/2 ">
+          <div className="flex flex-col gap-[70px] h-1/2 ">
             <div className="flex justify-center text-3xl  ">
               <p> Which language has the most native speakers?</p>
             </div>

@@ -11,7 +11,7 @@ const Navbar = () => {
         <div className="flex gap-10 items-center text-xl">
           <Link to={'/'}>Home</Link>
           <Link to={'/quiz'}>Quiz</Link>
-          <p>My Top Scores</p>
+          <Link to={'/scores'}>My Top Scores</Link>
         </div>
         <div>
           <Link
