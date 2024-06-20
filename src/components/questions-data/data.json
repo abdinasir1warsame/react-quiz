@@ -1,0 +1,844 @@
+{
+    "categories": [
+        {
+            "name": "Art",
+            "questions": [
+                {
+                    "text": "Who painted the Mona Lisa?",
+                    "options": [
+                        "Leonardo da Vinci",
+                        "Vincent van Gogh",
+                        "Pablo Picasso",
+                        "Claude Monet"
+                    ],
+                    "answer": "Leonardo da Vinci"
+                },
+                {
+                    "text": "What art movement is associated with Claude Monet?",
+                    "options": [
+                        "Impressionism",
+                        "Surrealism",
+                        "Cubism",
+                        "Expressionism"
+                    ],
+                    "answer": "Impressionism"
+                },
+                {
+                    "text": "In which city is the Louvre Museum located?",
+                    "options": [
+                        "Paris",
+                        "New York",
+                        "Rome",
+                        "London"
+                    ],
+                    "answer": "Paris"
+                },
+                {
+                    "text": "Who sculpted the statue of David?",
+                    "options": [
+                        "Michelangelo",
+                        "Donatello",
+                        "Bernini",
+                        "Rodin"
+                    ],
+                    "answer": "Michelangelo"
+                },
+                {
+                    "text": "Which artist is known for cutting off part of his ear?",
+                    "options": [
+                        "Vincent van Gogh",
+                        "Salvador Dalí",
+                        "Henri Matisse",
+                        "Jackson Pollock"
+                    ],
+                    "answer": "Vincent van Gogh"
+                },
+                {
+                    "text": "The painting 'Starry Night' was created by which artist?",
+                    "options": [
+                        "Vincent van Gogh",
+                        "Pablo Picasso",
+                        "Claude Monet",
+                        "Henri Rousseau"
+                    ],
+                    "answer": "Vincent van Gogh"
+                },
+                {
+                    "text": "Which famous mural by Leonardo da Vinci depicts Jesus and his disciples?",
+                    "options": [
+                        "The Last Supper",
+                        "The Creation of Adam",
+                        "The School of Athens",
+                        "The Night Watch"
+                    ],
+                    "answer": "The Last Supper"
+                },
+                {
+                    "text": "What style of art is Pablo Picasso known for co-founding?",
+                    "options": [
+                        "Cubism",
+                        "Surrealism",
+                        "Fauvism",
+                        "Abstract Expressionism"
+                    ],
+                    "answer": "Cubism"
+                },
+                {
+                    "text": "The painting 'The Persistence of Memory' features melting clocks and was created by which artist?",
+                    "options": [
+                        "Salvador Dalí",
+                        "René Magritte",
+                        "Frida Kahlo",
+                        "Joan Miró"
+                    ],
+                    "answer": "Salvador Dalí"
+                },
+                {
+                    "text": "Who painted the Sistine Chapel ceiling?",
+                    "options": [
+                        "Michelangelo",
+                        "Raphael",
+                        "Caravaggio",
+                        "Titian"
+                    ],
+                    "answer": "Michelangelo"
+                }
+            ]
+        },
+        {
+            "name": "Science",
+            "questions": [
+                {
+                    "text": "What is the chemical symbol for water?",
+                    "options": [
+                        "H2O",
+                        "CO2",
+                        "NaCl",
+                        "O2"
+                    ],
+                    "answer": "H2O"
+                },
+                {
+                    "text": "Which planet is known as the Red Planet?",
+                    "options": [
+                        "Mars",
+                        "Venus",
+                        "Jupiter",
+                        "Saturn"
+                    ],
+                    "answer": "Mars"
+                },
+                {
+                    "text": "What is the powerhouse of the cell?",
+                    "options": [
+                        "Mitochondria",
+                        "Nucleus",
+                        "Ribosome",
+                        "Chloroplast"
+                    ],
+                    "answer": "Mitochondria"
+                },
+                {
+                    "text": "What element does 'O' represent on the periodic table?",
+                    "options": [
+                        "Oxygen",
+                        "Osmium",
+                        "Oganesson",
+                        "Oxalate"
+                    ],
+                    "answer": "Oxygen"
+                },
+                {
+                    "text": "What is the speed of light?",
+                    "options": [
+                        "299,792 km/s",
+                        "300,000 km/s",
+                        "150,000 km/s",
+                        "299,792 m/s"
+                    ],
+                    "answer": "299,792 km/s"
+                },
+                {
+                    "text": "Which planet is closest to the Sun?",
+                    "options": [
+                        "Mercury",
+                        "Venus",
+                        "Earth",
+                        "Mars"
+                    ],
+                    "answer": "Mercury"
+                },
+                {
+                    "text": "What is the chemical formula for table salt?",
+                    "options": [
+                        "NaCl",
+                        "H2SO4",
+                        "NaCO3",
+                        "KCl"
+                    ],
+                    "answer": "NaCl"
+                },
+                {
+                    "text": "What is the main gas found in the Earth's atmosphere?",
+                    "options": [
+                        "Nitrogen",
+                        "Oxygen",
+                        "Carbon Dioxide",
+                        "Hydrogen"
+                    ],
+                    "answer": "Nitrogen"
+                },
+                {
+                    "text": "Who developed the theory of relativity?",
+                    "options": [
+                        "Albert Einstein",
+                        "Isaac Newton",
+                        "Galileo Galilei",
+                        "Nikola Tesla"
+                    ],
+                    "answer": "Albert Einstein"
+                },
+                {
+                    "text": "What is the most abundant element in the universe?",
+                    "options": [
+                        "Hydrogen",
+                        "Oxygen",
+                        "Carbon",
+                        "Helium"
+                    ],
+                    "answer": "Hydrogen"
+                }
+            ]
+        },
+        {
+            "name": "Maths",
+            "questions": [
+                {
+                    "text": "What is the value of π (pi) rounded to two decimal places?",
+                    "options": [
+                        "3.14",
+                        "3.15",
+                        "3.16",
+                        "3.17"
+                    ],
+                    "answer": "3.14"
+                },
+                {
+                    "text": "What is the square root of 144?",
+                    "options": [
+                        "12",
+                        "14",
+                        "16",
+                        "18"
+                    ],
+                    "answer": "12"
+                },
+                {
+                    "text": "What is 7 multiplied by 8?",
+                    "options": [
+                        "56",
+                        "54",
+                        "58",
+                        "60"
+                    ],
+                    "answer": "56"
+                },
+                {
+                    "text": "What is the perimeter of a rectangle with length 5 and width 3?",
+                    "options": [
+                        "16",
+                        "15",
+                        "20",
+                        "18"
+                    ],
+                    "answer": "16"
+                },
+                {
+                    "text": "What is the value of 2^5?",
+                    "options": [
+                        "32",
+                        "16",
+                        "64",
+                        "128"
+                    ],
+                    "answer": "32"
+                },
+                {
+                    "text": "What is the factorial of 5 (5!)?",
+                    "options": [
+                        "120",
+                        "60",
+                        "24",
+                        "100"
+                    ],
+                    "answer": "120"
+                },
+                {
+                    "text": "What is the derivative of x^2?",
+                    "options": [
+                        "2x",
+                        "x",
+                        "x^2",
+                        "x^3"
+                    ],
+                    "answer": "2x"
+                },
+                {
+                    "text": "What is 15% of 200?",
+                    "options": [
+                        "30",
+                        "20",
+                        "15",
+                        "25"
+                    ],
+                    "answer": "30"
+                },
+                {
+                    "text": "What is the sum of angles in a triangle?",
+                    "options": [
+                        "180 degrees",
+                        "360 degrees",
+                        "90 degrees",
+                        "270 degrees"
+                    ],
+                    "answer": "180 degrees"
+                },
+                {
+                    "text": "What is the value of the golden ratio (φ) rounded to two decimal places?",
+                    "options": [
+                        "1.62",
+                        "1.68",
+                        "1.70",
+                        "1.75"
+                    ],
+                    "answer": "1.62"
+                }
+            ]
+        },
+        {
+            "name": "Sports",
+            "questions": [
+                {
+                    "text": "Which country won the FIFA World Cup in 2018?",
+                    "options": [
+                        "France",
+                        "Brazil",
+                        "Germany",
+                        "Argentina"
+                    ],
+                    "answer": "France"
+                },
+                {
+                    "text": "How many players are there on a baseball team?",
+                    "options": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ],
+                    "answer": "9"
+                },
+                {
+                    "text": "What is the length of an Olympic swimming pool?",
+                    "options": [
+                        "50 meters",
+                        "25 meters",
+                        "100 meters",
+                        "200 meters"
+                    ],
+                    "answer": "50 meters"
+                },
+                {
+                    "text": "Which sport is known as the 'king of sports'?",
+                    "options": [
+                        "Soccer",
+                        "Basketball",
+                        "Baseball",
+                        "Tennis"
+                    ],
+                    "answer": "Soccer"
+                },
+                {
+                    "text": "Who has won the most Grand Slam titles in men's tennis?",
+                    "options": [
+                        "Roger Federer",
+                        "Rafael Nadal",
+                        "Novak Djokovic",
+                        "Pete Sampras"
+                    ],
+                    "answer": "Roger Federer"
+                },
+                {
+                    "text": "What is the highest score in a single frame of ten-pin bowling?",
+                    "options": [
+                        "30",
+                        "100",
+                        "50",
+                        "300"
+                    ],
+                    "answer": "30"
+                },
+                {
+                    "text": "Which country is known for the sport of sumo wrestling?",
+                    "options": [
+                        "Japan",
+                        "China",
+                        "Mongolia",
+                        "South Korea"
+                    ],
+                    "answer": "Japan"
+                },
+                {
+                    "text": "In which sport would you perform a slam dunk?",
+                    "options": [
+                        "Basketball",
+                        "Volleyball",
+                        "Tennis",
+                        "Soccer"
+                    ],
+                    "answer": "Basketball"
+                },
+                {
+                    "text": "Which sport uses a net, a racket, and a shuttlecock?",
+                    "options": [
+                        "Badminton",
+                        "Tennis",
+                        "Squash",
+                        "Table Tennis"
+                    ],
+                    "answer": "Badminton"
+                },
+                {
+                    "text": "What color flag is waved in motor racing to indicate the winner?",
+                    "options": [
+                        "Checkered",
+                        "Red",
+                        "Blue",
+                        "Green"
+                    ],
+                    "answer": "Checkered"
+                }
+            ]
+        },
+        {
+            "name": "History",
+            "questions": [
+                {
+                    "text": "Who was the first President of the United States?",
+                    "options": [
+                        "George Washington",
+                        "Thomas Jefferson",
+                        "Abraham Lincoln",
+                        "John Adams"
+                    ],
+                    "answer": "George Washington"
+                },
+                {
+                    "text": "Which war was fought between the North and South regions in the United States?",
+                    "options": [
+                        "The Civil War",
+                        "World War I",
+                        "World War II",
+                        "The Revolutionary War"
+                    ],
+                    "answer": "The Civil War"
+                },
+                {
+                    "text": "Who discovered America in 1492?",
+                    "options": [
+                        "Christopher Columbus",
+                        "Vasco da Gama",
+                        "Ferdinand Magellan",
+                        "James Cook"
+                    ],
+                    "answer": "Christopher Columbus"
+                },
+                {
+                    "text": "Which empire was known as the largest contiguous empire in history?",
+                    "options": [
+                        "The Mongol Empire",
+                        "The Roman Empire",
+                        "The British Empire",
+                        "The Ottoman Empire"
+                    ],
+                    "answer": "The Mongol Empire"
+                },
+                {
+                    "text": "What was the name of the ship that brought the Pilgrims to America in 1620?",
+                    "options": [
+                        "Mayflower",
+                        "Santa Maria",
+                        "Beagle",
+                        "Endeavour"
+                    ],
+                    "answer": "Mayflower"
+                },
+                {
+                    "text": "Who was the British Prime Minister during World War II?",
+                    "options": [
+                        "Winston Churchill",
+                        "Neville Chamberlain",
+                        "Clement Attlee",
+                        "Margaret Thatcher"
+                    ],
+                    "answer": "Winston Churchill"
+                },
+                {
+                    "text": "What was the main cause of the French Revolution?",
+                    "options": [
+                        "Economic hardship",
+                        "Religious conflict",
+                        "Colonial expansion",
+                        "Monarchic power struggle"
+                    ],
+                    "answer": "Economic hardship"
+                },
+                {
+                    "text": "Who was the first emperor of China?",
+                    "options": [
+                        "Qin Shi Huang",
+                        "Han Wudi",
+                        "Emperor Gaozu",
+                        "Wu Zetian"
+                    ],
+                    "answer": "Qin Shi Huang"
+                },
+                {
+                    "text": "In which year did the Berlin Wall fall?",
+                    "options": [
+                        "1989",
+                        "1990",
+                        "1988",
+                        "1991"
+                    ],
+                    "answer": "1989"
+                },
+                {
+                    "text": "Which ancient civilization built the pyramids of Giza?",
+                    "options": [
+                        "Egyptian",
+                        "Mayan",
+                        "Incan",
+                        "Greek"
+                    ],
+                    "answer": "Egyptian"
+                }
+            ]
+        },
+        {
+            "name": "Geography",
+            "questions": [
+                {
+                    "text": "What is the capital of France?",
+                    "options": [
+                        "Paris",
+                        "London",
+                        "Berlin",
+                        "Madrid"
+                    ],
+                    "answer": "Paris"
+                },
+                {
+                    "text": "Which is the largest continent by land area?",
+                    "options": [
+                        "Asia",
+                        "Africa",
+                        "North America",
+                        "Europe"
+                    ],
+                    "answer": "Asia"
+                },
+                {
+                    "text": "Which river is the longest in the world?",
+                    "options": [
+                        "Nile",
+                        "Amazon",
+                        "Yangtze",
+                        "Mississippi"
+                    ],
+                    "answer": "Nile"
+                },
+                {
+                    "text": "Which country has the largest population?",
+                    "options": [
+                        "China",
+                        "India",
+                        "USA",
+                        "Indonesia"
+                    ],
+                    "answer": "China"
+                },
+                {
+                    "text": "Mount Everest is located in which mountain range?",
+                    "options": [
+                        "Himalayas",
+                        "Andes",
+                        "Rockies",
+                        "Alps"
+                    ],
+                    "answer": "Himalayas"
+                },
+                {
+                    "text": "What is the smallest country in the world by area?",
+                    "options": [
+                        "Vatican City",
+                        "Monaco",
+                        "Nauru",
+                        "San Marino"
+                    ],
+                    "answer": "Vatican City"
+                },
+                {
+                    "text": "Which desert is the largest in the world?",
+                    "options": [
+                        "Sahara",
+                        "Arabian",
+                        "Gobi",
+                        "Kalahari"
+                    ],
+                    "answer": "Sahara"
+                },
+                {
+                    "text": "Which ocean is the largest by surface area?",
+                    "options": [
+                        "Pacific",
+                        "Atlantic",
+                        "Indian",
+                        "Southern"
+                    ],
+                    "answer": "Pacific"
+                },
+                {
+                    "text": "What is the official language of Brazil?",
+                    "options": [
+                        "Portuguese",
+                        "Spanish",
+                        "French",
+                        "English"
+                    ],
+                    "answer": "Portuguese"
+                },
+                {
+                    "text": "Which country is home to the Great Barrier Reef?",
+                    "options": [
+                        "Australia",
+                        "Indonesia",
+                        "Mexico",
+                        "Philippines"
+                    ],
+                    "answer": "Australia"
+                }
+            ]
+        },
+        {
+            "category": "Culture",
+            "questions": [
+                {
+                    "text": "Which country is famous for the festival of 'Diwali'?",
+                    "options": [
+                        "India",
+                        "Thailand",
+                        "Japan",
+                        "Mexico"
+                    ],
+                    "answer": "India"
+                },
+                {
+                    "text": "The 'Carnival of Venice' is known for its elaborate what?",
+                    "options": [
+                        "Masks",
+                        "Dances",
+                        "Parades",
+                        "Feasts"
+                    ],
+                    "answer": "Masks"
+                },
+                {
+                    "text": "What is the traditional dance of Argentina?",
+                    "options": [
+                        "Tango",
+                        "Samba",
+                        "Flamenco",
+                        "Rumba"
+                    ],
+                    "answer": "Tango"
+                },
+                {
+                    "text": "Which culture is known for creating the Pyramids of Giza?",
+                    "options": [
+                        "Egyptian",
+                        "Aztec",
+                        "Mayan",
+                        "Roman"
+                    ],
+                    "answer": "Egyptian"
+                },
+                {
+                    "text": "Which country is known for the martial art of 'Taekwondo'?",
+                    "options": [
+                        "South Korea",
+                        "China",
+                        "Japan",
+                        "Thailand"
+                    ],
+                    "answer": "South Korea"
+                },
+                {
+                    "text": "In which country is the 'Day of the Dead' a significant holiday?",
+                    "options": [
+                        "Mexico",
+                        "Spain",
+                        "Italy",
+                        "Brazil"
+                    ],
+                    "answer": "Mexico"
+                },
+                {
+                    "text": "What is the name of the traditional Japanese garment?",
+                    "options": [
+                        "Kimono",
+                        "Sari",
+                        "Hanbok",
+                        "Ao Dai"
+                    ],
+                    "answer": "Kimono"
+                },
+                {
+                    "text": "Which famous composer wrote the 'Fifth Symphony'?",
+                    "options": [
+                        "Ludwig van Beethoven",
+                        "Wolfgang Amadeus Mozart",
+                        "Johann Sebastian Bach",
+                        "Franz Schubert"
+                    ],
+                    "answer": "Ludwig van Beethoven"
+                },
+                {
+                    "text": "The 'Mona Lisa' is housed in which museum?",
+                    "options": [
+                        "Louvre",
+                        "Uffizi",
+                        "British Museum",
+                        "Hermitage"
+                    ],
+                    "answer": "Louvre"
+                },
+                {
+                    "text": "Which country is famous for its traditional tea ceremony?",
+                    "options": [
+                        "Japan",
+                        "China",
+                        "India",
+                        "England"
+                    ],
+                    "answer": "Japan"
+                }
+            ]
+        },
+        {
+            "category": "Health",
+            "questions": [
+                {
+                    "text": "What vitamin is produced in the skin when exposed to sunlight?",
+                    "options": [
+                        "Vitamin D",
+                        "Vitamin C",
+                        "Vitamin B12",
+                        "Vitamin A"
+                    ],
+                    "answer": "Vitamin D"
+                },
+                {
+                    "text": "Which type of exercise is most effective for improving cardiovascular health?",
+                    "options": [
+                        "Aerobic exercise",
+                        "Strength training",
+                        "Yoga",
+                        "Pilates"
+                    ],
+                    "answer": "Aerobic exercise"
+                },
+                {
+                    "text": "How many hours of sleep are recommended for adults each night for optimal health?",
+                    "options": [
+                        "7-9 hours",
+                        "5-6 hours",
+                        "9-11 hours",
+                        "6-7 hours"
+                    ],
+                    "answer": "7-9 hours"
+                },
+                {
+                    "text": "Which food group is the primary source of energy for the body?",
+                    "options": [
+                        "Carbohydrates",
+                        "Proteins",
+                        "Fats",
+                        "Vitamins"
+                    ],
+                    "answer": "Carbohydrates"
+                },
+                {
+                    "text": "What is the main function of dietary fiber in the body?",
+                    "options": [
+                        "Aids digestion",
+                        "Builds muscle",
+                        "Provides energy",
+                        "Strengthens bones"
+                    ],
+                    "answer": "Aids digestion"
+                },
+                {
+                    "text": "Which of the following is a common symptom of dehydration?",
+                    "options": [
+                        "Headache",
+                        "Increased energy",
+                        "Improved mood",
+                        "Weight gain"
+                    ],
+                    "answer": "Headache"
+                },
+                {
+                    "text": "What is considered a healthy body mass index (BMI) range for adults?",
+                    "options": [
+                        "18.5-24.9",
+                        "25.0-29.9",
+                        "30.0-34.9",
+                        "35.0-39.9"
+                    ],
+                    "answer": "18.5-24.9"
+                },
+                {
+                    "text": "Which mineral is essential for maintaining strong bones and teeth?",
+                    "options": [
+                        "Calcium",
+                        "Iron",
+                        "Potassium",
+                        "Zinc"
+                    ],
+                    "answer": "Calcium"
+                },
+                {
+                    "text": "What is the primary benefit of antioxidants in the diet?",
+                    "options": [
+                        "Protect against cell damage",
+                        "Increase muscle mass",
+                        "Provide quick energy",
+                        "Enhance sleep quality"
+                    ],
+                    "answer": "Protect against cell damage"
+                },
+                {
+                    "text": "Which habit is most effective for managing stress and improving mental health?",
+                    "options": [
+                        "Regular physical activity",
+                        "Consuming caffeine",
+                        "Skipping meals",
+                        "Staying up late"
+                    ],
+                    "answer": "Regular physical activity"
+                }
+            ]
+        }
+    ]
+}
