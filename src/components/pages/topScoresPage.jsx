@@ -35,7 +35,7 @@ const TopScoresPage = () => {
               <div>{score.name}</div> {/* Name of the player */}
             </div>
             <div>
-              <p>{score.score} points</p> {/* Score of the player */}
+              <p>{score.score}/10</p> {/* Score of the player */}
             </div>
           </div>
         ))}
